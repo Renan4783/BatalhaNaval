@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1371658807 source:c:\users\administrador\desktop\ciencia da computacao\batalhanaval\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1371672182 source:d:\ciencia da computacao\batalhanaval\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
